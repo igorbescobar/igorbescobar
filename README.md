@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" width="100%" alt="igorbescobar" />
+<img src="header.png" width="100%" alt="igorbescobar" />
 
 <a href="https://github.com/igorbescobar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Fabric+%E2%80%A2+Paper+%E2%80%A2+NeoForge;Java+%26+Kotlin+%7C+Gradle;Cobblemon+mods+%40+GoodStudio;Building+HEX-MC.NET" alt="Typing SVG" />
@@ -106,4 +106,4 @@ A Prison / Cyber-themed Minecraft network with custom MiniMessage MOTD, purple g
 
 <br/>
 
-<img src="assets/footer.png" width="100%" alt="" />
+<img src="footer.png" width="100%" alt="" />
