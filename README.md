@@ -1,16 +1,3 @@
-<!--
-============================================================
-  GitHub Profile README  ·  igorbescobar
-  HOW TO USE:
-  1. Create a repository named exactly  igorbescobar/igorbescobar  (public).
-  2. Drop this file in as README.md  → it shows on your profile automatically.
-  3. The stats / streak cards populate once it's live on your account.
-  OPTIONAL: snake contribution animation needs a GitHub Action
-  (Platane/snk) — ping me and I'll wire it up.
-============================================================
--->
-
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:5B21B6,100:9D4EDD&height=220&section=header&text=igorbescobar&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Minecraft%20Mod%20%26%20Plugin%20Developer&descSize=18&descAlignY=60" width="100%" />
@@ -27,19 +14,17 @@
 
 <br/>
 
-<!-- ====================== ABOUT ====================== -->
 ## ✦ About
 
 Brazilian developer building **mods and plugins for Minecraft** across **Fabric, Paper, and Bukkit**. I ship polished, performance-minded gameplay systems — custom GUIs, particle effects, multiplayer networking — with a strong focus on **thread safety** and **clean, side-correct code**.
 
 - 🟣 Creator of the **GoodStudio** Cobblemon mod lineup
 - 🎮 Building **HEX-MC.NET** — a Prison / Cyber-themed network
-- 🧩 Java 21 · Kotlin · Gradle Kotlin DSL
+- 🧩 Java 8 → 25 · Kotlin · Gradle Kotlin DSL
 - 🌐 PT-BR / EN
 
 <br/>
 
-<!-- ====================== TECH STACK ====================== -->
 ## ✦ Tech Stack
 
 **Languages & Build**
@@ -59,14 +44,12 @@ Brazilian developer building **mods and plugins for Minecraft** across **Fabric,
 **Infra & Tools**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-9333EA?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-9333EA?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-9333EA?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-9333EA?style=for-the-badge&logo=linux&logoColor=white)
 
 <br/>
 
-<!-- ====================== WHAT I'M BUILDING ====================== -->
 ## ✦ What I'm Building
 
 <table>
@@ -85,7 +68,7 @@ Client &amp; server mods that extend the Cobblemon experience — particle auras
 
 ### 🎮 HEX-MC.NET
 
-A Prison / Cyber-themed Minecraft network — custom MiniMessage MOTD, voice chat, and a multi-server Cobblemon backend on **Velocity + MongoDB + Redis**.
+A Prison / Cyber-themed Minecraft network with custom MiniMessage MOTD, purple gradient branding, and integrated voice chat.
 
 [![HEX-MC.NET](https://img.shields.io/badge/HEX--MC.NET-0D0D0D?style=for-the-badge&logo=discord&logoColor=A855F7)](https://discord.gg/WMbypgqSgG)
 
@@ -95,7 +78,6 @@ A Prison / Cyber-themed Minecraft network — custom MiniMessage MOTD, voice cha
 
 <br/>
 
-<!-- ====================== STATS ====================== -->
 ## ✦ GitHub Stats
 
 <div align="center">
@@ -111,7 +93,6 @@ A Prison / Cyber-themed Minecraft network — custom MiniMessage MOTD, voice cha
 
 <br/>
 
-<!-- ====================== CONNECT ====================== -->
 ## ✦ Connect
 
 <div align="center">
