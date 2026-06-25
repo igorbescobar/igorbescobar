@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:5B21B6,100:9D4EDD&height=220&section=header&text=igorbescobar&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Minecraft%20Mod%20%26%20Plugin%20Developer&descSize=18&descAlignY=60" width="100%" />
+<img src="assets/header.png" width="100%" alt="igorbescobar" />
 
 <a href="https://github.com/igorbescobar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Fabric+%E2%80%A2+Paper+%E2%80%A2+Bukkit;Java+%26+Kotlin+%7C+Gradle;Cobblemon+mods+%40+GoodStudio;Building+HEX-MC.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Fabric+%E2%80%A2+Paper+%E2%80%A2+NeoForge;Java+%26+Kotlin+%7C+Gradle;Cobblemon+mods+%40+GoodStudio;Building+HEX-MC.NET" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## ✦ About
 
-Brazilian developer building **mods and plugins for Minecraft** across **Fabric, Paper, and Bukkit**. I ship polished, performance-minded gameplay systems — custom GUIs, particle effects, multiplayer networking — with a strong focus on **thread safety** and **clean, side-correct code**.
+Brazilian developer building **mods and plugins for Minecraft** across **Fabric, Paper, and NeoForge**. I ship polished, performance-minded gameplay systems — custom GUIs, particle effects, multiplayer networking — with a strong focus on **thread safety** and **clean, side-correct code**.
 
 - 🟣 Creator of the **GoodStudio** Cobblemon mod lineup
 - 🎮 Building **HEX-MC.NET** — a Prison / Cyber-themed network
@@ -37,7 +37,7 @@ Brazilian developer building **mods and plugins for Minecraft** across **Fabric,
 
 ![Fabric](https://img.shields.io/badge/Fabric-7C3AED?style=for-the-badge&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-7C3AED?style=for-the-badge&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-7C3AED?style=for-the-badge&logoColor=white)
+![NeoForge](https://img.shields.io/badge/NeoForge-7C3AED?style=for-the-badge&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-7C3AED?style=for-the-badge&logoColor=white)
 ![Cobblemon](https://img.shields.io/badge/Cobblemon-7C3AED?style=for-the-badge&logoColor=white)
 
@@ -82,7 +82,7 @@ A Prison / Cyber-themed Minecraft network with custom MiniMessage MOTD, purple g
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=igorbescobar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=0D0D0D" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=igorbescobar&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=0D0D0D" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbescobar&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=FFFFFF&bg_color=0D0D0D" alt="top langs" />
 
 <br/>
@@ -106,4 +106,4 @@ A Prison / Cyber-themed Minecraft network with custom MiniMessage MOTD, purple g
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,55:5B21B6,100:0D0D0D&height=120&section=footer" width="100%" />
+<img src="assets/footer.png" width="100%" alt="" />
