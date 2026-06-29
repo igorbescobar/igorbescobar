@@ -20,6 +20,7 @@ Brazilian developer building **mods and plugins for Minecraft** across **Fabric,
 
 - 🟣 Creator of the **GoodStudio** Cobblemon mod lineup
 - 🎮 Building **HEX-MC.NET** — a Prison / Cyber-themed network
+- 🚀 Building a custom **Minecraft launcher** — a Prism Launcher fork
 - 🧩 Java 8 → 25 · Kotlin · Gradle Kotlin DSL
 - 🌐 PT-BR / EN
 
